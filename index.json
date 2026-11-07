@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "shub-workflow",
+  "versions": [
+    {
+      "commit": "7d6bb9a2602b3f6e7a6f5060b8d1a0b104e3086e",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:35:48.298307+00:00"
+    }
+  ]
+}
